@@ -1,0 +1,44 @@
+body {
+	background: black;
+}
+
+.postcard-body {
+	background: white;
+	width: 475px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+    padding: 10px;
+	display: flex;
+}
+h1 {
+	width: 100%;
+	margin: 0%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.postcard-top {
+	display: flex;
+}
+
+.body-left{
+	padding: 10px;
+}
+p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body-right {
+	padding: 30px;
+}
+input {
+	border: none;
+	border-bottom: 1px gray solid;
+}
+
+.postcard-footer {
+	text-align: center;
+}
+.button {
+	background-color: aquamarine;
+	padding: 5px;
+}
